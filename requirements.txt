@@ -1,0 +1,9 @@
+BeautifulSoup==3.2.1
+argparse==1.2.1
+beautifulsoup4==4.3.2
+html5lib==0.999
+python-dateutil==2.4.0
+pytz==2014.10
+selenium==2.44.0
+six==1.9.0
+wsgiref==0.1.2
